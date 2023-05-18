@@ -1,0 +1,11 @@
+import pygame
+
+SIZE = WIDTH, HEIGHT = 800, 800
+ROWS, COLS = 8, 8
+SQUARE_SIZE =WIDTH//COLS
+
+#Colors RGB
+BLACK = (0, 0, 0)
+RED_CHECKER = (255, 0, 0)
+RED = (255, 50, 40)
+BLUE = (0, 0, 255)
